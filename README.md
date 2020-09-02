@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a software engineer located in NYC. I work with Ruby on Rails, JavaScript, React, HTML and CSS to make engaging web applications.
+
+📫 How to reach me:
+LinkedIn (https://www.linkedin.com/in/senada-kadric/)
+
 <!--
 **senadakadric/senadakadric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
