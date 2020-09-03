@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a software engineer located in NYC. I work with Ruby on Rails, JavaScript, React, HTML and CSS to make engaging web applications.
+I am open to work and interested in full-time web developer positions.
 
 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/senada-kadric/), [Email](mailto:skadric@fordham.edu)
