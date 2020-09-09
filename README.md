@@ -6,6 +6,9 @@ I am open to work and interested in full-time web developer positions.
 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/senada-kadric/), [Email](mailto:skadric@fordham.edu)
 
+
+  <img align="left" alt="Senada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=senadakadric&show_icons=true&hide_border=true" />
+
 <!--
 **senadakadric/senadakadric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
